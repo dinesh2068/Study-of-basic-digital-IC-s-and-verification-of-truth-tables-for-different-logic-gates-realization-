@@ -69,7 +69,7 @@ input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
 and (y1,a,b);
 or (y2,a,b);
-nor(y3,a,b);
+not(y3,a);
 xor (y4,a,b);
 nand (y5,a,b);
 nor (y6,a,b);
@@ -80,7 +80,8 @@ endmodule
 ![image](https://github.com/dinesh2068/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151390189/dec5a7e4-879c-4125-9d08-b978203413dc)
 
 ## RTL:
-![image](https://github.com/dinesh2068/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151390189/31651ef4-f890-43ee-a096-3f69ff159164)
+![image](https://github.com/dinesh2068/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/151390189/b3a79e2c-c2f6-4071-a97a-2cc5f4c64bd0)
+
 
 
 Result:
